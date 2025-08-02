@@ -1,0 +1,11 @@
+{
+  "task": {
+    "id": 2,
+    "action": "scan_platform",
+    "platform": "immunefi"
+  },
+  "contract_data": {
+    "targets_processed": 10
+  },
+  "findings": null
+}

@@ -1,0 +1,4 @@
+tasks:
+  - id: 2
+    action: scan_platform
+    platform: "immunefi"
